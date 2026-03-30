@@ -33,6 +33,8 @@ O Clone Commander é um software **Portátil**. Não requer instalação e não 
 2. Baixe o arquivo ZIP da versão mais recente (ex: `CloneCommander_v1.0_EXE.zip`).
 3. Extraia a pasta em qualquer lugar do seu computador e execute o `CloneCommander.exe`.
 
+> ⚠️ **Aviso Importante:** Mantenha o arquivo `CloneCommander.exe.config` sempre na mesma pasta do executável. Não o apague, pois ele é fundamental para garantir o **funcionamento correto** e a estabilidade do programa.
+
 ### Para Desenvolvedores (Código-Fonte)
 1. Clone este repositório ou baixe o arquivo `CloneCommander.ps1`.
 2. O script pode ser executado diretamente via PowerShell ou compilado para executável utilizando o `ps2exe` com os parâmetros `-NoConsole -STA -SupportOS -DPIAware -LongPaths`.
