@@ -6,7 +6,8 @@ O **Clone Commander** é uma ferramenta avançada de produtividade para Windows.
 
 ## 🚀 Principais Funcionalidades
 
-* **Navegação por Abas (Separadores):** Abra múltiplas pastas no mesmo painel. O programa memoriza a sua sessão e restaura as abas automaticamente ao reabrir.
+* **Memória de Sessão (Auto-Recovery):** Fechou o programa por acidente ou precisa de interromper o trabalho para continuar depois? Não se preocupe. O Clone Commander guarda o seu progresso automaticamente em tempo real. Ao reabrir o programa, todos os seus separadores e pastas abertas são restaurados exatamente onde os deixou.
+* **Navegação por Abas (Separadores):** Organize o seu fluxo de trabalho abrindo múltiplas pastas simultaneamente e de forma independente em cada um dos painéis.
 * **Painel Duplo Inteligente:** Arraste e solte arquivos facilmente entre o lado esquerdo e direito. Uma seta direcional central (>>) indica sempre qual é o painel de destino.
 * **Modo Turbo:** Acelere o seu fluxo de trabalho. Ao ativar o ícone "Turbo" no centro da tela, o seu teclado assume atalhos rápidos de transferência entre os painéis (`F1` para Mover, `F2` para Copiar).
 * **Renomeação Sequencial de Arquivos:** Ideal para organizar grandes volumes de dados. Durante a edição do nome de um arquivo, pressione `Seta para Baixo` para salvar e editar automaticamente o próximo arquivo da lista.
