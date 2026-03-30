@@ -2,6 +2,8 @@
 
 **Gestor de ficheiros com painel duplo e separadores, alimentado pelo motor nativo do Windows Explorer.**
 
+![Clone Commander Preview](clonecommander_preview.png)
+
 O **Clone Commander** é uma ferramenta avançada de produtividade para Windows. Construído do zero em PowerShell e C#, ele une a interface clássica e ágil de "dois painéis" (Orthodox File Manager) com a estabilidade e compatibilidade do motor nativo do Windows Explorer.
 
 ## 💡 Legado e Filosofia de Design
